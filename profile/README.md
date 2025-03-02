@@ -8,6 +8,10 @@ Pour être honnête, je ne sais pas encore exactement ce que j'y mettrai, mais v
 - Des [essais](https://github.com/peche-public/essais/blob/main/README.md) sur divers sujets.
 
 
+> [!NOTE]  
+> Il se trouve que vous n'ayez pas accès à certains des liens si dessus. C'est donc normal si vous tombez sur un “*404 This is not the web page you are looking for*”.
+
+
 <!--
 Liens utils sur des commandes git:
 - git add -i : https://git-scm.com/book/fr/v2/Utilitaires-Git-Indexation-interactive
