@@ -9,7 +9,7 @@ Pour être honnête, je ne sais pas encore exactement ce que j'y mettrai, mais v
 
 
 > [!NOTE]  
-> Il se trouve que vous n'ayez pas accès à certains des liens si dessus. C'est donc normal si vous tombez sur un “*404 This is not the web page you are looking for*”.
+> Il est possible que vous n'ayez pas accès à certains des liens si dessus. C'est donc normal si vous tombez sur un “**404** *This is not the web page you are looking for*”.
 
 
 <!--
